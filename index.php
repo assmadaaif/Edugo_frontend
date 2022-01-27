@@ -1,5 +1,5 @@
-@iclude('include.header')
-@iclude('include.main')
-
-
-@iclude('include.footer')
+<?php
+include("include/header.php");
+include("include/menu.php");
+include("include/footer.php");
+?>
