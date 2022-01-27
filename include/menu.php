@@ -57,7 +57,7 @@
 					</span>
 				  </a>					
 				  <ul class="treeview-menu">					
-					<li><a href="tables_simple.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Formateurs</a></li>
+					<li><a href="../ecole/list_formateur.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Formateurs</a></li>
 					<li><a href="tables_data.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Parents</a></li>
 					<li><a href="tables_editable.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Eleves</a></li>
 					<li><a href="tables_color.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Staff</a></li>					
