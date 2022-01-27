@@ -27,6 +27,22 @@
 			
 			
 				</li>				  
+				<li class="treeview">
+					<a href="#">
+						<i data-feather="user"></i>
+						<span>absence-retard</span>
+						<span class="pull-right-container">
+						  <i class="fa fa-angle-right pull-right"></i>
+						</span>
+					</a>					
+					<ul class="treeview-menu">					
+						<li><a href="box_cards.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>absence</a></li>
+						<li><a href="box_advanced.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>retard </a></li>
+					</ul>
+				  </li>	
+			
+			
+				</li>				  
 				
 						
 					
@@ -48,7 +64,7 @@
 				  </ul>
 				</li>				 
 				 
-				  <li class="treeview">
+				  <li class="treeview  ">
 					<a href="#">
 						<i data-feather="settings"></i>
 					  <span>Parametrage</span>
@@ -58,9 +74,9 @@
 				  </li>	
 			  
 			  <div class="sidebar-widgets">
-				  <div class="mx-25 mb-30 pb-20 side-bx bg-primary-light rounded20">
+				  <div class="mx-25 mb-30 pb-20 side-bx bg-primary-light rounded20 ">
 					<div class="text-center">
-						<img src="../../../images/svg-icon/color-svg/custom-24.svg" class="sideimg p-5" alt="">
+						<img src="../../../images/svg-icon/color-svg/custom-24.svg" class="sideimg p-5 mt-5" alt="">
 						<h4 class="title-bx text-primary">Best Education Admin</h4>
 					</div>
 				  </div>
