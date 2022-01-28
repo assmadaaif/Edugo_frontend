@@ -8,9 +8,9 @@
 		<script src="../assets/vendor_components/bootstrap-daterangepicker/daterangepicker.js"></script>	
 			
 			<!-- edulearn App -->
-		<script src="../src/js/demo.js"></script>
-		<script src="../src/js/template.js"></script>
-		<script src="../src/js/pages/dashboard.js"></script>
+		<script src="../../src/js/demo.js"></script>
+		<script src="../../src/js/template.js"></script>
+		<script src="../../src/js/pages/dashboard.js"></script>
 <!-- -------------------end-script ---------------->
 <footer class="main-footer">
     <div class="pull-right d-none d-sm-inline-block">
