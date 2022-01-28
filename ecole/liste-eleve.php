@@ -30,12 +30,12 @@ include("../include/menu.php");
 						<div class="col-lg-2">
 							<div class="form-group">
 								<select class="form-select">
-									<option>Eleve</option>
-									<option>eleve1</option>
-									<option>eleve2</option>
-									<option>eleve3</option>
-									<option>eleve4</option>
-									<option>eleve5</option>
+									<option>Niveau</option>
+									<option>niveau1</option>
+									<option>niveau2</option>
+									<option>niveau3</option>
+									<option>niveau4</option>
+									<option>niveau5</option>
 								</select>
 							</div>
 						</div>
@@ -54,12 +54,9 @@ include("../include/menu.php");
 						<div class="col-lg-2">
 							<div class="form-group">
 								<select class="form-select">
-									<option>Matiere</option>
-									<option>math</option>
-									<option>phisique</option>
-									<option>arabe</option>
-									<option>sport</option>
-									<option>anglais</option>
+									<option>Annee scolaire</option>
+									<option>2022</option>
+
 								</select>
 							</div>
 						</div>
@@ -141,7 +138,7 @@ include("../include/menu.php");
 			</div>
 			<div class="row">
 				<div class="col-lg-2 ms-auto">
-					<a href="ajouter-formateur.php">
+					<a href="ajouter-eleve.php">
 						<button type="submit" class="btn btn-primary">
 							ajouter
 						</button></a>
