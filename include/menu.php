@@ -57,9 +57,15 @@
 					</span>
 				  </a>					
 				  <ul class="treeview-menu">					
+<<<<<<< HEAD
 					<li><a href="../ecole/formateur/liste-formateur.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Formateurs</a></li>
 					<li><a href="tables_data.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Parents</a></li>
 					<li><a href="../eleves/liste-eleve.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Eleves</a></li>
+=======
+					<li><a href="../ecole/liste-formateur.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Formateurs</a></li>
+					<li><a href="tables_data.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Parents</a></li>
+					<li><a href="../ecole/liste-eleve.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Eleves</a></li>
+>>>>>>> 4be72c01f5f8693c858e81563045fa2dd4db8f06
 					<li><a href="tables_color.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Staff</a></li>					
 				  </ul>
 				</li>				 
