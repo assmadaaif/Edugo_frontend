@@ -6,7 +6,7 @@
 			  <!-- sidebar menu-->
 			  <ul class="sidebar-menu" data-widget="tree">	
 				<li>
-				  <a href="index.php"><i data-feather="home"></i><span>Dashboard</span></a>
+				  <a href="../index.php"><i data-feather="home"></i><span>Dashboard</span></a>
 				</li>
 				<li class="treeview">
 					<a href="#">
@@ -36,8 +36,8 @@
 						</span>
 					</a>					
 					<ul class="treeview-menu">					
-						<li><a href="box_cards.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>absence</a></li>
-						<li><a href="box_advanced.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>retard </a></li>
+						<li><a href="../absence-retard/absence.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>absence</a></li>
+						<li><a href="../absence-retard/retard.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>retard </a></li>
 					</ul>
 				  </li>	
 			
@@ -57,9 +57,9 @@
 					</span>
 				  </a>					
 				  <ul class="treeview-menu">					
-					<li><a href="../ecole/list_formateur.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Formateurs</a></li>
+					<li><a href="../ecole/formateurs/liste-formateur.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Formateurs</a></li>
 					<li><a href="tables_data.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Parents</a></li>
-					<li><a href="../ecole/liste-eleve.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Eleves</a></li>
+					<li><a href="../ecole/eleves/liste-eleve.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Eleves</a></li>
 					<li><a href="tables_color.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Staff</a></li>					
 				  </ul>
 				</li>				 
