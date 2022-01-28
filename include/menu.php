@@ -17,11 +17,11 @@
 						</span>
 					</a>					
 					<ul class="treeview-menu">					
-						<li><a href="box_cards.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Liste des messages</a></li>
-						<li><a href="box_advanced.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Nouveau </a></li>
-						<li><a href="box_basic.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Les envoies</a></li>
-						<li><a href="box_color.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Categories </a></li>
-						<li><a href="box_group.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Status </a></li>
+						<li><a href="../messagerie/liste-messageries.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Liste des messages</a></li>
+						<li><a href="../messagerie/nouveau-message.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Nouveau </a></li>
+						<li><a href="../messagerie/les-envoies.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Les envoies</a></li>
+						<li><a href="../messagerie/categories.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Categories </a></li>
+						<li><a href="../messagerie/status.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Status </a></li>
 					</ul>
 				  </li>	
 			
@@ -59,7 +59,7 @@
 				  <ul class="treeview-menu">					
 					<li><a href="../ecole/list_formateur.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Formateurs</a></li>
 					<li><a href="tables_data.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Parents</a></li>
-					<li><a href="tables_editable.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Eleves</a></li>
+					<li><a href="../ecole/liste-eleve.php"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Eleves</a></li>
 					<li><a href="tables_color.html"><i class="icon-Commit"><span class="path1"></span><span class="path2"></span></i>Staff</a></li>					
 				  </ul>
 				</li>				 
